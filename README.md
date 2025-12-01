@@ -87,7 +87,7 @@ project/
 # Getting Started
 
 ## 1 Clone the repository
-git clone https://github.com/yourusername/Job-Finder.git
+git clone https://github.com/muhammadachar435/Job-Finder.git
 
 ## 2 Install dependencies
 npm install
@@ -126,5 +126,3 @@ Admin analytics
 Pull requests are welcome! Feel free to open an issue for suggestions or improvements.
 Contribution
 
-Pull requests are welcome! Feel free to open an issue for suggestions or improvements.
->>>>>>> 17aad784280e33c79b9d1db195908672edffb608
