@@ -1,8 +1,11 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b49c69a-fef8-46c6-a56a-e890a5adba52" /># Job Finder
+# Job Finder
 
 I have built a modern Job Finder Web Application using Next.js, React, Tailwind CSS, and MongoDB.
 This platform allows users to search, explore, and apply for jobs with a smooth and responsive UI.
 It also includes authentication, dashboards, and SEO-optimized pages for real-world performance.
+
+![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1568).png?raw=true)
+
 
 # Features
 
