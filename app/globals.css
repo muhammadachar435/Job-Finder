@@ -1,8 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f5f5;
+}
+@theme {
+  --font-inter: "Inter", sans-serif;
+  --font-roboto: "Roboto", sans-serif;
+}
+
+@theme {
+  --breakpoint-*: initial;
+  --breakpoint-small: 320px;
+  --breakpoint-medium: 375px;
+  --breakpoint-large: 425px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-tablet-large: 900px;
+  --breakpoint-desktop: 1024px;
+  --breakpoint-mac: 1280px;
+  --breakpoint-widescreen: 1440px;
+  --breakpoint-ultrawide: 1920px;
+}
+
+/*  Remove all Recharts click/focus outlines or borders */
+.recharts-surface:focus,
+.recharts-legend-item:focus,
+.recharts-sector:focus {
+  outline: none !important;
+  stroke: none !important;
+  border: none !important;
+}
+
+/* Optional: also disable hover stroke highlight if any */
+.recharts-sector:hover {
+  stroke: none !important;
 }
 
 @theme inline {
@@ -14,13 +48,13 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* --background: #0a0a0a; */
+    /* --foreground: #ededed; */
   }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* background: var(--background); */
+  /* color: var(--foreground); */
+  /* font-family: Arial, Helvetica, sans-serif; */
 }
