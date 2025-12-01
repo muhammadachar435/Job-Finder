@@ -108,15 +108,18 @@ npm run dev
 # 📸 Screenshots
 
 # 📁 /public/screenshots/
-- dashboard.png
+
+# - dashboard.png
 
 ![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1569).png?raw=true)
 
-- job-details.png
+
+# - job-details.png
   
 ![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1570).png?raw=true)
 
-- SEO Project 
+
+# - SEO Project 
 
 ![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1567).png?raw=true)
 
