@@ -107,12 +107,22 @@ npm run dev
 
 # 📸 Screenshots
 
-(Add your project screenshots here)
-
 # 📁 /public/screenshots/
-- home.png
-- job-details.png
 - dashboard.png
+
+![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1569).png?raw=true)
+
+- job-details.png
+  
+![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1570).png?raw=true)
+
+- SEO Project 
+
+![image alt](https://github.com/muhammadachar435/Job-Finder/blob/master/Screenshot%20(1567).png?raw=true)
+
+
+
+
 
 # Future Improvements
 
